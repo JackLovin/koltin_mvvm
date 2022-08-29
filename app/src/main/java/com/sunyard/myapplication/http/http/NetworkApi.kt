@@ -1,7 +1,8 @@
-package com.example.myapplication.http.http
+package com.sunyard.myapplication.http.http
 
-import com.example.myapplication.http.base.BaseApplication
-import com.example.myapplication.http.base.BaseNetworkApi
+import com.example.myapplication.http.http.LoggerInterceptor
+import com.sunyard.myapplication.http.base.BaseApplication
+import com.sunyard.myapplication.http.base.BaseNetworkApi
 import com.franmontiel.persistentcookiejar.PersistentCookieJar
 import com.franmontiel.persistentcookiejar.cache.SetCookieCache
 import com.franmontiel.persistentcookiejar.persistence.SharedPrefsCookiePersistor

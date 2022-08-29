@@ -1,6 +1,4 @@
-package com.example.myapplication.http.error
-
-import com.example.myapplication.http.error.Error
+package com.sunyard.myapplication.http.error
 
 /**
  * 自定义错误信息异常

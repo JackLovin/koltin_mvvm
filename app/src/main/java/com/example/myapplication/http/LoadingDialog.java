@@ -16,7 +16,7 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.annotation.StyleRes;
 
-import com.example.myapplication.R;
+import com.sunyard.myapplication.R;
 
 
 /**

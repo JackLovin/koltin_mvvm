@@ -1,6 +1,6 @@
 package com.example.myapplication.http.base
 
-import com.example.myapplication.http.error.AppException
+import com.sunyard.myapplication.http.error.AppException
 
 
 open class BaseResponse<T> {

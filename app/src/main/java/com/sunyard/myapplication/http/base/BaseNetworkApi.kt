@@ -1,4 +1,4 @@
-package com.example.myapplication.http.base
+package com.sunyard.myapplication.http.base
 
 import me.jessyan.retrofiturlmanager.RetrofitUrlManager
 import okhttp3.OkHttpClient

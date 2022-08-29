@@ -1,4 +1,4 @@
-package com.example.myapplication.http.error
+package com.sunyard.myapplication.http.error
 
 /**
  * 描述　: 错误枚举类

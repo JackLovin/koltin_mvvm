@@ -1,4 +1,4 @@
-package com.example.myapplication.http.base
+package com.sunyard.myapplication.http.base
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -12,6 +12,8 @@ import androidx.lifecycle.ViewModelProvider
 import com.blankj.utilcode.util.ToastUtils
 import com.example.myapplication.http.ProgressDialog
 import com.example.myapplication.http.util.MyLog
+
+import com.sunyard.myapplication.BaseViewModel
 
 abstract class BaseFragment<V : ViewDataBinding, VM : BaseViewModel> : Fragment() {
     protected lateinit var binding: V

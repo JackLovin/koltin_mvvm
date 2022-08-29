@@ -1,4 +1,4 @@
-package com.example.myapplication.http.error
+package com.sunyard.myapplication.http.error
 
 import android.net.ParseException
 import org.apache.http.conn.ConnectTimeoutException

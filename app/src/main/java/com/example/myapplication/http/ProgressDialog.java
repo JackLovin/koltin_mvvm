@@ -4,7 +4,7 @@ import android.content.Context;
 
 import androidx.appcompat.app.AppCompatDialog;
 
-import com.example.myapplication.R;
+import com.sunyard.myapplication.R;
 
 
 public class ProgressDialog extends AppCompatDialog {
